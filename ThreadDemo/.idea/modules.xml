@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thread10Module/Thread10Module.iml" filepath="$PROJECT_DIR$/Thread10Module/Thread10Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread11Module/Thread11Module.iml" filepath="$PROJECT_DIR$/Thread11Module/Thread11Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread1Module/Thread1Module.iml" filepath="$PROJECT_DIR$/Thread1Module/Thread1Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread2Module/Thread2Module.iml" filepath="$PROJECT_DIR$/Thread2Module/Thread2Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread3Module/Thread3Module.iml" filepath="$PROJECT_DIR$/Thread3Module/Thread3Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread4Module/Thread4Module.iml" filepath="$PROJECT_DIR$/Thread4Module/Thread4Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread5Module/Thread5Module.iml" filepath="$PROJECT_DIR$/Thread5Module/Thread5Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread6Module/Thread6Module.iml" filepath="$PROJECT_DIR$/Thread6Module/Thread6Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread7Module/Thread7Module.iml" filepath="$PROJECT_DIR$/Thread7Module/Thread7Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread8Module/Thread8Module.iml" filepath="$PROJECT_DIR$/Thread8Module/Thread8Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread9Module/Thread9Module.iml" filepath="$PROJECT_DIR$/Thread9Module/Thread9Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo.iml" />
+    </modules>
+  </component>
+</project>
